@@ -1,0 +1,64 @@
+body {
+}
+nav {
+  padding: 0 10px;
+}
+.brand-logo {
+  font-family: Merienda;
+}
+#file-input {
+  text-align: center;
+  color: rgb(255, 113, 19);
+  font-size: 20px;
+}
+#file-input > input {
+  padding: 20px;
+}
+.text-inputs {
+  padding: 20px;
+  width: 80%;
+}
+canvas {
+  background: rgb(240, 239, 239);
+  -moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 30px #3a3737;
+  border-radius: 5px;
+}
+.input-field {
+  margin-bottom: 40px;
+}
+.prefix {
+  color: rgb(255, 136, 0);
+}
+#logo {
+  width: 50px;
+}
+#saveBtn {
+  width: 100%;
+}
+#s8 {
+  text-align: center;
+}
+#success {
+  display: none;
+  border-radius: 2px;
+  background: #4caf50;
+  width: 51%;
+  margin: 0 auto;
+  padding: 10px;
+}
+#success > p {
+  display: inline;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+#main-sec {
+  margin-top: 30px;
+}
+footer {
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  background: rgba(24, 24, 24, 0.8);
+}
